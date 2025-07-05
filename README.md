@@ -6,6 +6,9 @@
 - container starten via docker desktop: mount to `/usr/local/tomcat/webapps/digilib`
 - Call via: `http://localhost:9090/digilib/img/ArchivOrgaMaterial_DR.png?dw=1000&dh=1000`
 
+## Beispiel-Edition ("Trüber Abschied")
+- https://github.com/Edirom/EditionExample/
+
 ## Edirom und Tools
 - Edirom Source Code: https://github.com/Edirom/Edirom-Online
 - Vertaktung (Web): https://cartographer-app.zenmem.de/
