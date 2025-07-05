@@ -1,5 +1,10 @@
 # edirom-kurs
 
+## digilib-Server
+- Docker-Image des MRI: https://hub.docker.com/r/maxregerinstitut/mri-digilib/tags
+- image laden: `docker pull maxregerinstitut/mri-digilib:2.12.4`
+- container starten via docker desktop: mount to `/usr/local/tomcat/webapps/digilib`
+- Call via: `http://localhost:9090/digilib/img/ArchivOrgaMaterial_DR.png?dw=1000&dh=1000`
 
 ## Edirom und Tools
 - Edirom Source Code: https://github.com/Edirom/Edirom-Online
