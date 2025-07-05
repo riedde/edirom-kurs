@@ -1,0 +1,31 @@
+<edition xmlns="http://www.edirom.de/ns/1.3" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="essEdiromEdition_03">
+    <editionName>Edirom von essUser03</editionName>
+    <languages>
+        <language xml:lang="de" complete="true"/>
+    </languages>
+    <preferences xlink:href="xmldb:exist:///db/apps/essEdiromData/data/ediromPrefs_ess2020.xml"/>
+    <works>
+        <work xml:id="edirom_work_ID-03" sortNo="1" xlink:href="xmldb:exist:///db/apps/essEdiromData/data/essUser03/edirom_work_ID-03.xml">
+            <navigatorDefinition>
+                <navigatorCategory xml:id="navCategory-0" sortNo="1">
+                    <names>
+                        <name xml:lang="de">Name der Kategorie</name>
+                        <name xml:lang="en">Label of the category</name>
+                    </names>
+                    <navigatorItem xml:id="navItem-0" sortNo="1"
+                        targets="xmldb:exist:///db/apps/essEdiromData/data/essUser03/file.xml[width:900]">
+                        <names>
+                            <name xml:lang="de">Name des Menüpunktes</name>
+                            <name xml:lang="en">Label of the item</name>
+                        </names>
+                    </navigatorItem>
+                </navigatorCategory>
+            </navigatorDefinition>
+            <searchWindowConfig/>
+            <concordances>
+                <concordance/>
+            </concordances>
+        </work>
+    </works>
+</edition>

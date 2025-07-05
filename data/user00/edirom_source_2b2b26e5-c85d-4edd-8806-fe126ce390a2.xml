@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     meiversion="4.0.0"
+     xml:id="edirom_source_2b2b26e5-c85d-4edd-8806-fe126ce390a2">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title type="uniform" xml:lang="de">Trüber Abschied (Erstdruck)</title>
+            </titleStmt>
+            <pubStmt>
+                <availability>recorded</availability>
+            </pubStmt>
+        </fileDesc>
+        <workList>
+            <work>
+                <title type="uniform" xml:lang="de">
+                    <titlePart type="main" xml:lang="de">Trüber Abschied</titlePart>
+                    <titlePart type="number" label="opus" auth="woo"/>
+                    <titlePart type="perf" xml:lang="de">für Singstimme und Klavier</titlePart>
+                </title>
+                <lyricist>
+                    <persName auth="baudi-04-5e3ed698">Ludwig Baumann</persName>
+                </lyricist>
+                <composer>
+                    <persName auth="baudi-04-5e3ed698">Ludwig Baumann</persName>
+                </composer>
+                <key pname="a" mode="minor"/>
+                <meter count="4" unit="4" sym="common"/>
+                <tempo>Andante.</tempo>
+                <incip/>
+                <perfMedium>
+                    <perfResList>
+                        <perfRes auth="baudi-09-82e86ea7">Singstimme</perfRes>
+                        <perfRes auth="baudi-09-32aa6522">Klavier</perfRes>
+                    </perfResList>
+                </perfMedium>
+            </work>
+        </workList>
+        <manifestationList>
+            <manifestation type="pr">
+                <identifier type="D-KA">M 313</identifier>
+                <titleStmt>
+                    <title>
+                        <titlePart type="main">Trüber Abschied</titlePart>
+                        <titlePart type="perf">für eine Singstimme &amp;
+                            Klavierbegleitung</titlePart>
+                    </title>
+                    <composer>
+                        <persName auth="baudi-04-5e3ed698">Ludwig Baumann</persName>
+                    </composer>
+                    <lyricist>
+                        <persName auth="baudi-04-5e3ed698">Ludwig Baumann</persName>
+                    </lyricist>
+                </titleStmt>
+                <physDesc>
+                    <titlePage>
+                        <p decls="titlePage">
+                            <rend halign="center">
+                                <rend rend="box">Trüber<lb/>Abschied</rend>rend&gt;<lb/>
+                            </rend>
+                            <rend rend="right">Lied<lb/>
+                                <rend rend="smcaps">Für Eine Singstimme
+                                    &amp;<lb/>Klavierbegleitung</rend>
+                            </rend>
+                            <rend rend="left">Komponiert</rend>
+                            <rend rend="center">von<lb/>LUDWIG BAUMANN</rend>
+                            <rend rend="left">Verlags N<rend rend="sup dblu">o</rend> 17229</rend>
+                            <rend rend="right">Preis Mk. 1._.</rend>
+                            <rend rend="center">Verlag und Eigentum für alle Länder<lb/>von<lb/>
+                                <rend rend="smcaps">Johann Andrè, Offenbach A.M.</rend>
+                            </rend>
+                        </p>
+                    </titlePage>
+                    <dimensions label="height" unit="mm">314</dimensions>
+                    <dimensions label="width" unit="mm">250</dimensions>
+                    <extent label="orientation">portrait</extent>
+                    <extent label="cover"/>
+                    <extent label="folium" unit="folium">2</extent>
+                    <extent label="pages" unit="page">2</extent>
+                    <extent label="pagination">arabic</extent>
+                    <scoreFormat>song score</scoreFormat>
+                    <watermark label="watermark"/>
+                    <plateNum>545</plateNum>
+                    <handList>
+                        <hand medium="TinteSchwarz" xml:id="hand1" label="Ludwig Baumann"/>
+                        <hand medium="Bleistift" xml:id="hand2" label="BiblVermerk"/>
+                    </handList>
+                    <addDesc>
+                        <p xmlns="" type="copyright">Verlag und Eigentum für alle Länder von
+                                <corpName>Johann André</corpName>, Offenbach a.M.</p>
+                    </addDesc>
+                    <condition n="1" resp="dried" type="desc">
+                        <date isodate="2020-05-14" type="desc" resp="dried"/>
+                        <p xmlns="" decls="statusReport">An den Rändern brüchig, Leichte
+                            Gebrauchsspuren. Im Fals verstärkt. Mit Fadenheftung in einen
+                            Kartonumschlag eingebunden.</p>
+                    </condition>
+                    <physMedium><!-- Lagenordnung -->
+                        <stamp>
+                            <locus n="2r" type="stamps">
+                                <symbol class="blb-002"/>
+                                <rend valign="bottom" halign="center">fol. 1r</rend>
+                            </locus>
+                        </stamp>
+                        <stamp>
+                            <locus type="stamps">
+                                <rend halign="center" valign="bottom">fol. 2v</rend>
+                                <symbol class="blb-002"/>
+                            </locus>
+                        </stamp>
+                    </physMedium>
+                </physDesc>
+                <physLoc>
+                    <repository>
+                        <corpName label="D-KA">Badische Landesbibliothek Karlsruhe</corpName>
+                        <identifier type="shelfmark">M 313</identifier>
+                    </repository>
+                </physLoc>
+                <history/>
+                <langUsage>
+                    <language auth="de"/>
+                </langUsage>
+                <contents/>
+                <biblList/>
+                <notesStmt>
+                    <!-- Weitere Anmerkungen des Beschreibers -->
+                    <annot n="1" resp="dried" corresp="hand1">Ludwig Baumann, fol. 1v</annot>
+                    <annot type="ambitus" corresp="baudi-09-82e86ea7">
+                        <note type="start" pname="e" oct="4"/>–<note type="end" pname="f" accid="s" oct="5"/>
+                    </annot>
+                    <annot resp="dried" corresp="hand2">fol. 1r<locus type="biblNotes" corresp="hand1">
+                            <rend halign="left" valign="top">aK</rend>
+                            <symbol/>
+                        </locus>
+                    </annot>
+                    <annot resp="dried" corresp="hand2">fol. 1r<locus type="biblNotes" corresp="hand1">
+                            <rend halign="right" valign="top">M 313</rend>
+                            <symbol/>
+                        </locus>
+                    </annot>
+                    <annot resp="dried" corresp="hand2">fol. 1r<locus type="biblNotes" corresp="hand1">
+                            <rend halign="center" valign="bottom">[um 1915]</rend>
+                            <symbol/>
+                        </locus>
+                    </annot>
+                    <annot resp="dried" corresp="hand2">fol. 1r<locus type="biblNotes" corresp="hand1">
+                            <rend halign="center" valign="bottom">Z</rend>
+                            <symbol/>
+                        </locus>
+                    </annot>
+                    <annot resp="dried" corresp="hand2">fol. 2v<locus type="biblNotes" corresp="hand1">
+                            <rend halign="left" valign="top">[pt?]</rend>
+                            <symbol/>
+                        </locus>
+                    </annot>
+                </notesStmt>
+                <classification>
+                    <termList>
+                        <term type="source">print</term>
+                        <term type="workGroup">vocal</term>
+                        <term type="genre">song</term>
+                    </termList>
+                </classification>
+                <componentList>
+                    <head>Beschreibung einzelner Stimmen oder untergeordneten Quellen.</head>
+                </componentList>
+                <relationList>
+                    <relation rel="isEmbodimentOf"
+                         target="xmldb:exist:///db/apps/essEdiromData/data/essUser00/edirom_work_291f7ad8-9bb8-45eb-9186-801dec2f80d9.xml#edirom_work_291f7ad8-9bb8-45eb-9186-801dec2f80d9_exp1"
+                         type="edirom"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <extMeta xmlns:tei="http://www.tei-c.org/ns/1.0"> </extMeta>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="surface_6e0bffe6-1b0e-46da-b34b-1f37dd87914d" n="1">
+                <graphic target="essEdiromImages/druck/M313_01v.jpeg"
+                     type="facsimile"
+                     width="1652"
+                     height="2338"/>
+                <zone xml:id="edirom_zone_ede27fd1-4107-4f24-8bbe-ed623955f7f3"
+                  type="measure"
+                  ulx="63"
+                  uly="257"
+                  lrx="501"
+                  lry="692"/>
+                <zone xml:id="edirom_zone_2d46a01c-f1bc-4bcc-ac3e-518ddd6f0d31"
+                  type="measure"
+                  ulx="444"
+                  uly="244"
+                  lrx="755"
+                  lry="701"/>
+                <zone xml:id="edirom_zone_9edce475-aa59-4f0b-8d2d-af0c0f8a7b3d"
+                  type="measure"
+                  ulx="701"
+                  uly="273"
+                  lrx="945"
+                  lry="704"/>
+                <zone xml:id="edirom_zone_f834b9e7-c345-42eb-a2a0-3040d2fff28b"
+                  type="measure"
+                  ulx="910"
+                  uly="270"
+                  lrx="1189"
+                  lry="717"/>
+                <zone xml:id="edirom_zone_b2b2c2dd-74fe-4dca-8ca9-a79b2d3dad89"
+                  type="measure"
+                  ulx="1145"
+                  uly="266"
+                  lrx="1615"
+                  lry="732"/>
+                <zone xml:id="edirom_zone_0487b2cd-2e35-4585-a907-8001e1e46afa"
+                  type="measure"
+                  ulx="54"
+                  uly="749"
+                  lrx="539"
+                  lry="1212"/>
+                <zone xml:id="edirom_zone_5801ef1a-c510-416e-ab1a-ede024300189"
+                  type="measure"
+                  ulx="492"
+                  uly="755"
+                  lrx="746"
+                  lry="1228"/>
+                <zone xml:id="edirom_zone_39fbd957-74c3-4b38-8626-35318511b2e7"
+                  type="measure"
+                  ulx="688"
+                  uly="765"
+                  lrx="974"
+                  lry="1225"/>
+                <zone xml:id="edirom_zone_ac962903-13b4-4cfb-91e8-dd6b04e4ebe2"
+                  type="measure"
+                  ulx="901"
+                  uly="761"
+                  lrx="1294"
+                  lry="1227"/>
+                <zone xml:id="edirom_zone_0907558f-b18d-4644-9e8d-58a9701f9745"
+                  type="measure"
+                  ulx="1237"
+                  uly="761"
+                  lrx="1615"
+                  lry="1218"/>
+                <zone xml:id="edirom_zone_8bbfc4a1-129b-4dd2-9e07-7abe0294b280"
+                  type="measure"
+                  ulx="54"
+                  uly="1247"
+                  lrx="362"
+                  lry="1717"/>
+                <zone xml:id="edirom_zone_46c4c040-b8a5-4243-bdce-58750ae80019"
+                  type="measure"
+                  ulx="305"
+                  uly="1259"
+                  lrx="546"
+                  lry="1722"/>
+                <zone xml:id="edirom_zone_acb06b61-75e5-4b42-bc5d-0ff447d131ba"
+                  type="measure"
+                  ulx="498"
+                  uly="1256"
+                  lrx="933"
+                  lry="1726"/>
+                <zone xml:id="edirom_zone_8addfcc1-dc6a-4e83-bad4-c827b0c2f4ff"
+                  type="measure"
+                  ulx="863"
+                  uly="1253"
+                  lrx="1275"
+                  lry="1738"/>
+                <zone xml:id="edirom_zone_1b641b82-3bc0-4463-a1dd-87bec4179e91"
+                  type="measure"
+                  ulx="1215"
+                  uly="1269"
+                  lrx="1612"
+                  lry="1735"/>
+                <zone xml:id="edirom_zone_4effe8dc-f99b-4cd4-97ab-9e5056c370d4"
+                  type="measure"
+                  ulx="60"
+                  uly="1748"
+                  lrx="583"
+                  lry="2227"/>
+                <zone xml:id="edirom_zone_aefba8af-1107-4e61-905e-787e1f898174"
+                  type="measure"
+                  ulx="520"
+                  uly="1757"
+                  lrx="831"
+                  lry="2220"/>
+                <zone xml:id="edirom_zone_ff9f457a-4a61-4b40-8dfa-a89b3f89f08b"
+                  type="measure"
+                  ulx="774"
+                  uly="1767"
+                  lrx="1044"
+                  lry="2230"/>
+                <zone xml:id="edirom_zone_3a7c7327-ed5e-4372-a42c-07ecd13b448a"
+                  type="measure"
+                  ulx="990"
+                  uly="1764"
+                  lrx="1440"
+                  lry="2243"/>
+                <zone xml:id="edirom_zone_835664c5-77b5-4cb7-adea-fb8c918c99e1"
+                  type="measure"
+                  ulx="1386"
+                  uly="1767"
+                  lrx="1618"
+                  lry="2256"/>
+            </surface>
+            <surface xml:id="surface_930c6885-c1e2-4bd9-8e6d-737c59cf6771" n="2">
+                <graphic target="essEdiromImages/druck/M313_02r.jpeg"
+                     type="facsimile"
+                     width="1652"
+                     height="2338"/>
+                <zone xml:id="edirom_zone_ea3b955b-86c2-4cac-9dde-4874bc5b7422"
+                  type="measure"
+                  ulx="69"
+                  uly="16"
+                  lrx="369"
+                  lry="538"/>
+                <zone xml:id="edirom_zone_b7890167-183f-4e08-a816-07883fe1edf8"
+                  type="measure"
+                  ulx="297"
+                  uly="13"
+                  lrx="766"
+                  lry="516"/>
+                <zone xml:id="edirom_zone_52f36998-09e0-4140-b48c-bd8d4342e767"
+                  type="measure"
+                  ulx="722"
+                  uly="16"
+                  lrx="1094"
+                  lry="541"/>
+                <zone xml:id="edirom_zone_7d639f3e-8381-4c9d-a18d-f2e60f913797"
+                  type="measure"
+                  ulx="1038"
+                  uly="22"
+                  lrx="1432"
+                  lry="544"/>
+                <zone xml:id="edirom_zone_bf2eb096-648a-42bc-97cf-878a5e8fc94c"
+                  type="measure"
+                  ulx="1369"
+                  uly="22"
+                  lrx="1625"
+                  lry="538"/>
+                <zone xml:id="edirom_zone_0846ad1b-c176-439e-a965-1aed091ae56b"
+                  type="measure"
+                  ulx="50"
+                  uly="531"
+                  lrx="678"
+                  lry="1062"/>
+                <zone xml:id="edirom_zone_03153aed-4629-4118-bdc7-c3c4157d1443"
+                  type="measure"
+                  ulx="616"
+                  uly="541"
+                  lrx="1082"
+                  lry="1050"/>
+                <zone xml:id="edirom_zone_e76eb229-6aae-4ba0-99b6-a361d4324fab"
+                  type="measure"
+                  ulx="1009"
+                  uly="566"
+                  lrx="1412"
+                  lry="1041"/>
+                <zone xml:id="edirom_zone_7e9fab9f-10a5-4907-9c71-564ec18a1384"
+                  type="measure"
+                  ulx="1353"
+                  uly="550"
+                  lrx="1622"
+                  lry="1031"/>
+                <zone xml:id="edirom_zone_65991cfc-b5d6-45be-8717-687ebaad9ad4"
+                  type="measure"
+                  ulx="59"
+                  uly="1084"
+                  lrx="609"
+                  lry="1534"/>
+                <zone xml:id="edirom_zone_506df314-f441-4c30-9bd6-a71e76a34085"
+                  type="measure"
+                  ulx="569"
+                  uly="1072"
+                  lrx="969"
+                  lry="1556"/>
+                <zone xml:id="edirom_zone_5162e9d0-a64a-43ed-ad1f-6e7249daa6f0"
+                  type="measure"
+                  ulx="916"
+                  uly="1091"
+                  lrx="1322"
+                  lry="1550"/>
+                <zone xml:id="edirom_zone_22d6ed49-ec26-41a7-bee3-88f79c0b4172"
+                  type="measure"
+                  ulx="1266"
+                  uly="1119"
+                  lrx="1619"
+                  lry="1563"/>
+                <zone xml:id="edirom_zone_375233fc-200c-450f-b047-46cf868ed402"
+                  type="measure"
+                  ulx="72"
+                  uly="1575"
+                  lrx="416"
+                  lry="2041"/>
+                <zone xml:id="edirom_zone_d81ec84c-58f8-4e41-baa7-11856ef8d84f"
+                  type="measure"
+                  ulx="359"
+                  uly="1575"
+                  lrx="562"
+                  lry="2034"/>
+                <zone xml:id="edirom_zone_d3378df4-07de-4c2b-a7b2-9809a811a3fb"
+                  type="measure"
+                  ulx="519"
+                  uly="1581"
+                  lrx="941"
+                  lry="2047"/>
+                <zone xml:id="edirom_zone_399a06ff-11c6-4370-9752-86dae4cd9b1e"
+                  type="measure"
+                  ulx="881"
+                  uly="1600"
+                  lrx="1187"
+                  lry="2088"/>
+                <zone xml:id="edirom_zone_a5b0cfd1-0b0b-47d8-b5ed-1cc8ede1fc82"
+                  type="measure"
+                  ulx="1128"
+                  uly="1597"
+                  lrx="1475"
+                  lry="2053"/>
+                <zone xml:id="edirom_zone_e243867b-e071-418a-bc74-1022d950ad20"
+                  type="measure"
+                  ulx="1428"
+                  uly="1581"
+                  lrx="1612"
+                  lry="2053"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv label="Trüber Abschied"
+               xml:id="edirom_mdiv_0b0226bb-cf19-49a0-9587-1317fe1bfbd8">
+                <score>
+                    <scoreDef/>
+                    <section>
+                        <measure xml:id="edirom_measure_6b8c96f1-e88a-4a85-a724-d20e1ef7bba3"
+                           n="1"
+                           facs="#edirom_zone_ede27fd1-4107-4f24-8bbe-ed623955f7f3"
+                           type="upbeat"
+                           label="1"/>
+                        <measure xml:id="edirom_measure_1a33a36a-906a-4e45-9545-aa8d465bfe8b"
+                           n="2"
+                           facs="#edirom_zone_2d46a01c-f1bc-4bcc-ac3e-518ddd6f0d31"
+                           label="2"/>
+                        <measure xml:id="edirom_measure_747caf9a-f0e5-431f-8209-d94642e75a5c"
+                           n="3"
+                           facs="#edirom_zone_9edce475-aa59-4f0b-8d2d-af0c0f8a7b3d"
+                           label="3"/>
+                        <measure xml:id="edirom_measure_21956586-c822-4bdb-b19e-00ca0ccbe9d1"
+                           n="4"
+                           facs="#edirom_zone_f834b9e7-c345-42eb-a2a0-3040d2fff28b"
+                           label="4"/>
+                        <measure xml:id="edirom_measure_4248d364-fd7a-4090-8adc-ea8ccd8afb46"
+                           n="5"
+                           facs="#edirom_zone_b2b2c2dd-74fe-4dca-8ca9-a79b2d3dad89"
+                           label="5"/>
+                        <measure xml:id="edirom_measure_75db15ab-9162-4098-9960-a5f1503eef1e"
+                           n="6"
+                           facs="#edirom_zone_0487b2cd-2e35-4585-a907-8001e1e46afa"
+                           label="6"/>
+                        <measure xml:id="edirom_measure_bb3ded4e-6dbf-41b2-a4ba-c4c759893371"
+                           n="7"
+                           facs="#edirom_zone_5801ef1a-c510-416e-ab1a-ede024300189"
+                           label="7"/>
+                        <measure xml:id="edirom_measure_01bcb8d0-6fa6-49b5-9dc4-480ac8af744f"
+                           n="8"
+                           facs="#edirom_zone_39fbd957-74c3-4b38-8626-35318511b2e7"
+                           label="8"/>
+                        <measure xml:id="edirom_measure_6c114e30-4375-4c3b-a326-f2d7b5d7c7af"
+                           n="9"
+                           facs="#edirom_zone_ac962903-13b4-4cfb-91e8-dd6b04e4ebe2"
+                           label="9"/>
+                        <measure xml:id="edirom_measure_ecbf31cf-5302-4453-979e-250c313a7bbe"
+                           n="10"
+                           facs="#edirom_zone_0907558f-b18d-4644-9e8d-58a9701f9745"
+                           label="10"/>
+                        <measure xml:id="edirom_measure_02b9b83a-f2bc-4fe6-ade9-390e0c53ae90"
+                           n="11"
+                           facs="#edirom_zone_8bbfc4a1-129b-4dd2-9e07-7abe0294b280"
+                           label="11"/>
+                        <measure xml:id="edirom_measure_47012eb8-1203-49f2-b0a8-c48ad1352d13"
+                           n="12"
+                           facs="#edirom_zone_46c4c040-b8a5-4243-bdce-58750ae80019"
+                           label="12"/>
+                        <measure xml:id="edirom_measure_b9cc8d5d-a0c2-41da-966c-f1651193bf60"
+                           n="13"
+                           facs="#edirom_zone_acb06b61-75e5-4b42-bc5d-0ff447d131ba"
+                           label="13"/>
+                        <measure xml:id="edirom_measure_0bada907-d72c-46a6-85a8-24896263ced1"
+                           n="14"
+                           facs="#edirom_zone_8addfcc1-dc6a-4e83-bad4-c827b0c2f4ff"
+                           label="14"/>
+                        <measure xml:id="edirom_measure_3fcf2b18-2243-46f0-9b41-d82dcb157371"
+                           n="15"
+                           facs="#edirom_zone_1b641b82-3bc0-4463-a1dd-87bec4179e91"
+                           label="15"/>
+                        <measure xml:id="edirom_measure_f599d8d2-42f7-4729-a514-6f94aeea5be3"
+                           n="16"
+                           facs="#edirom_zone_4effe8dc-f99b-4cd4-97ab-9e5056c370d4"
+                           label="16"/>
+                        <measure xml:id="edirom_measure_62d99816-b848-47f2-b00b-487562300618"
+                           n="17"
+                           facs="#edirom_zone_aefba8af-1107-4e61-905e-787e1f898174"
+                           label="17"/>
+                        <measure xml:id="edirom_measure_0c63a5b8-b121-49c2-afec-9fd218c23b70"
+                           n="18"
+                           facs="#edirom_zone_ff9f457a-4a61-4b40-8dfa-a89b3f89f08b"
+                           label="18"/>
+                        <measure xml:id="edirom_measure_56b16408-af82-4449-b388-0219e90f0b98"
+                           n="19"
+                           facs="#edirom_zone_3a7c7327-ed5e-4372-a42c-07ecd13b448a"
+                           label="19"/>
+                        <measure xml:id="edirom_measure_8dff22c2-84f5-4662-aab3-c0ec808dd759"
+                           n="20"
+                           facs="#edirom_zone_835664c5-77b5-4cb7-adea-fb8c918c99e1"
+                           label="20"/>
+                        <measure xml:id="edirom_measure_00fa7c21-f8e4-413d-82ea-a5c622530795"
+                           n="21"
+                           facs="#edirom_zone_ea3b955b-86c2-4cac-9dde-4874bc5b7422"
+                           label="21"/>
+                        <measure xml:id="edirom_measure_f0a0539e-e0c0-4b80-aa98-7d2a7bec9ed4"
+                           n="22"
+                           facs="#edirom_zone_b7890167-183f-4e08-a816-07883fe1edf8"
+                           label="22"/>
+                        <measure xml:id="edirom_measure_068d945b-8309-4992-8015-605bd8e7ede8"
+                           n="23"
+                           facs="#edirom_zone_52f36998-09e0-4140-b48c-bd8d4342e767"
+                           label="23"/>
+                        <measure xml:id="edirom_measure_8a7eccb0-152b-41fd-9934-0dfa778a7b19"
+                           n="24"
+                           facs="#edirom_zone_7d639f3e-8381-4c9d-a18d-f2e60f913797"
+                           label="24"/>
+                        <measure xml:id="edirom_measure_8705c90f-1f6f-4d29-bab3-698880306d64"
+                           n="25"
+                           facs="#edirom_zone_bf2eb096-648a-42bc-97cf-878a5e8fc94c"
+                           label="25"/>
+                        <measure xml:id="edirom_measure_53b9bbb4-1d3c-4e19-ac06-868a1abf6d9d"
+                           n="26"
+                           facs="#edirom_zone_0846ad1b-c176-439e-a965-1aed091ae56b"
+                           label="26"/>
+                        <measure xml:id="edirom_measure_9014023f-c926-46bd-97cb-531c07f7a468"
+                           n="27"
+                           facs="#edirom_zone_03153aed-4629-4118-bdc7-c3c4157d1443"
+                           label="27"/>
+                        <measure xml:id="edirom_measure_081e1790-d79c-4742-a801-1bc9490ac8b0"
+                           n="28"
+                           facs="#edirom_zone_e76eb229-6aae-4ba0-99b6-a361d4324fab"
+                           label="28"/>
+                        <measure xml:id="edirom_measure_4a9a5a6c-6718-4411-8fad-9205f25900fa"
+                           n="29"
+                           facs="#edirom_zone_7e9fab9f-10a5-4907-9c71-564ec18a1384"
+                           label="29"/>
+                        <measure xml:id="edirom_measure_0e55fb78-4cc2-4cda-94e3-a342a1700c39"
+                           n="30"
+                           facs="#edirom_zone_65991cfc-b5d6-45be-8717-687ebaad9ad4"
+                           label="30"/>
+                        <measure xml:id="edirom_measure_5ba0269a-8602-499b-8e37-69d1c4454a8e"
+                           n="31"
+                           facs="#edirom_zone_506df314-f441-4c30-9bd6-a71e76a34085"
+                           label="31"/>
+                        <measure xml:id="edirom_measure_d212c65d-3817-4153-9984-5c4c1e7e3874"
+                           n="32"
+                           facs="#edirom_zone_5162e9d0-a64a-43ed-ad1f-6e7249daa6f0"
+                           label="32"/>
+                        <measure xml:id="edirom_measure_fb41b2e1-97b9-4530-b0bd-2d229899eeeb"
+                           n="33"
+                           facs="#edirom_zone_22d6ed49-ec26-41a7-bee3-88f79c0b4172"
+                           label="33"/>
+                        <measure xml:id="edirom_measure_605983d8-5fe8-4901-8c0d-a42ab790966c"
+                           n="34"
+                           facs="#edirom_zone_375233fc-200c-450f-b047-46cf868ed402"
+                           label="34"/>
+                        <measure xml:id="edirom_measure_c79e4d25-0a13-4b50-8b24-5d6ac454b557"
+                           n="35"
+                           facs="#edirom_zone_d81ec84c-58f8-4e41-baa7-11856ef8d84f"
+                           label="35"/>
+                        <measure xml:id="edirom_measure_3ce3a0c8-5c66-4bad-8e12-2958f2263f9f"
+                           n="36"
+                           facs="#edirom_zone_d3378df4-07de-4c2b-a7b2-9809a811a3fb"
+                           label="36"/>
+                        <measure xml:id="edirom_measure_761c74f5-27ad-4df3-bcc7-ced8dd646748"
+                           n="37"
+                           facs="#edirom_zone_399a06ff-11c6-4370-9752-86dae4cd9b1e"
+                           label="37"/>
+                        <measure xml:id="edirom_measure_92b50086-5b06-4b74-9116-c0d42f93379a"
+                           n="38"
+                           facs="#edirom_zone_a5b0cfd1-0b0b-47d8-b5ed-1cc8ede1fc82"
+                           label="38"/>
+                        <measure xml:id="edirom_measure_773aeb3b-3cc9-4833-a687-bc046769508f"
+                           n="39"
+                           facs="#edirom_zone_e243867b-e071-418a-bc74-1022d950ad20"
+                           label="39"/>
+                    </section>
+                    <div type="songtext">
+                        <lg>
+                            <l>Das Posthorn bläst eine traurige Weis', ade!</l>
+                            <l>Die Wälder starren in Schne und Eis, ade!</l>
+                            <l>Nun muß ich hinaus in die weite Fern',</l>
+                            <l>holdseliges Mädchen bei dir wär' ich gern.</l>
+                            <l>Ade! ade, ade nun, mein Schatz, ade.</l>
+                        </lg>
+                        <lg>
+                            <l>Wie waren die Menschen so falsch zu mir, ade!</l>
+                            <l>Herzliebe Maid, Gott sei mit dir, ade!</l>
+                            <l>Wie trüb' doch die Sonne herunterscheint,</l>
+                            <l>mein armes Herze zuckt und weint.</l>
+                            <l>Ade! ade, ade nun, mein Schatz, ade.</l>
+                        </lg>
+                        <lg>
+                            <l>Und zieht bald der Frühling in's Land herein, ade.</l>
+                            <l>Dann wird meine Wallfahrt zu Ende wohl sein, ade.</l>
+                            <l>Dann tragen die Lüfte von meinem Grab,</l>
+                            <l>einen Gruß noch zu ihr, die so lieb ich hab',</l>
+                            <l>ade! ade! ade nun, mein Schatz, ade!</l>
+                        </lg>
+                    </div>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>

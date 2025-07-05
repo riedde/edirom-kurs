@@ -1,0 +1,90 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="edirom_source_ID-07">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title type="uniform" xml:lang="de">Trüber Abschied (Edition)</title>
+            </titleStmt>
+            <pubStmt>
+                <availability>recorded</availability>
+            </pubStmt>
+        </fileDesc>
+        <workList>
+            <work>
+                <title type="uniform" xml:lang="de">
+                    <titlePart type="main" xml:lang="de">TITEL</titlePart>
+                    <titlePart type="perf" xml:lang="de">Besetzung</titlePart>
+                </title>
+                <lyricist>
+                    <persName auth="baudi-04-5e3ed698">Ludwig Baumann</persName>
+                </lyricist>
+                <composer>
+                    <persName auth="baudi-04-5e3ed698">Ludwig Baumann</persName>
+                </composer>
+                <editor><persName>Dennis Ried</persName></editor>
+                <key pname="a" mode="minor"/>
+                <meter count="4" unit="4" sym="common"/>
+                <tempo>Andante.</tempo>
+                <incip/>
+                <perfMedium>
+                    <perfResList>
+                        <perfRes auth="baudi-09-82e86ea7">Singstimme</perfRes>
+                        <perfRes auth="baudi-09-32aa6522">Klavier</perfRes>
+                    </perfResList>
+                </perfMedium>
+            </work>
+        </workList>
+        <manifestationList>
+            <manifestation type="ed">
+                <titleStmt>
+                    <title>
+                        <titlePart type="main">TITEL</titlePart>
+                        <titlePart type="perf">BESETZUNG</titlePart>
+                    </title>
+                    <composer>
+                        <persName auth="baudi-04-5e3ed698">Ludwig Baumann</persName>
+                    </composer>
+                    <lyricist>
+                        <persName auth="baudi-04-5e3ed698">Ludwig Baumann</persName>
+                    </lyricist>
+                    <editor><persName>Dennis Ried</persName></editor>
+                    <respStmt>
+                        <persName role="artist">Sibelius 7.5</persName>
+                    </respStmt>
+                </titleStmt>
+                <langUsage>
+                    <language auth="de"/>
+                </langUsage>
+                <classification>
+                    <termList>
+                        <term type="source">edition</term>
+                        <term type="workGroup">vocal</term>
+                        <term type="genre">song</term>
+                    </termList>
+                </classification>
+                <relationList>
+                    <relation rel="isEmbodimentOf" target="xmldb:exist:///db/apps/essEdiromData/data/essUser07/edirom_work_ID-07.xml#edirom_work_ID-07_exp1" type="edirom"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <extMeta xmlns:tei="http://www.tei-c.org/ns/1.0"> </extMeta>
+    </meiHead>
+    <music>
+        <facsimile>
+            <graphic type="cover" target="https://digilib.baumann-digital.de/essEdiromImages/edition/cover.jpeg?dh=200"/>
+        </facsimile>
+        <performance>
+            <recording>
+                <avFile target="http://baumann-digital.de:8082/exist/apps/essEdiromData/data/audio/TrueberAbschiedEdition.mp3"/>
+            </recording>
+        </performance>
+        <body>
+            <mdiv>
+                 <score>
+                  <scoreDef/>
+                  <section/>
+                    <div type="songtext"/>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>
